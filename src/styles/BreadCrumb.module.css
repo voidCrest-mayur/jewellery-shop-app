@@ -1,0 +1,23 @@
+.breadCrumbContainer h1,
+li,
+li::before {
+    color: var(--bread-crumb-color) !important;
+}
+
+.breadCrumbContainer a {
+    color: var(--nav-link-hover-color);
+}
+
+
+/* media query for mobile view  */
+@media only screen and (max-width: 600px) {
+    .breadCrumbContainer h1 {
+        font-size: 1.5em;
+    }
+
+    .breadCrumbContainer li,
+    li::before {
+        font-size: 0.8em;
+    }
+
+}

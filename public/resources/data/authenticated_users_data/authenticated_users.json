@@ -1,0 +1,22 @@
+{
+  "auth_users": [
+    {
+      "id": 1,
+      "name": "Tarun Rastogi",
+      "email": "rastogitarun9@gmail.com",
+      "password": "Tarun@123"
+    },
+    {
+      "name": "Mayur Rastogi",
+      "email": "rastogitarun9@bbdec.ac.in",
+      "password": "1111",
+      "id": 2
+    },
+    {
+      "name": "Tarun Rastogi",
+      "email": "tarun.rastogi@hcl.com",
+      "password": "TA#06run",
+      "id": 3
+    }
+  ]
+}

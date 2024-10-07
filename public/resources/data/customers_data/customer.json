@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "firstName": "tarun",
+      "lastName": "rastogi",
+      "email": "rastogitarun9@bbdec.ac.in",
+      "address": "Chinhat, Lucknow, Uttar Pradesh",
+      "id": 1
+    },
+    {
+      "firstName": "Arish",
+      "lastName": "Khan",
+      "email": "reach.arishalikhan@gmail.com",
+      "address": "311 , parth aadhyant Lig building Gom",
+      "id": 2
+    },
+    {
+      "firstName": "mayur2",
+      "lastName": "rastogi",
+      "email": "rastogitarun9@gmail.com",
+      "address": "Chinhat, Lucknow, Uttar Pradesh",
+      "id": 3
+    }
+  ]
+}

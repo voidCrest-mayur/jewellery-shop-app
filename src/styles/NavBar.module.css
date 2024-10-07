@@ -1,0 +1,59 @@
+.brandLogo {
+    min-width: calc(100vw - 95%);
+    height: 4.9rem;
+    display: block;
+    position: relative;
+    overflow: hidden;
+    background: var(--bg-grey-color);
+}
+
+.brandLogo img {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    max-width: 7rem;
+    mix-blend-mode: screen;
+    filter: contrast(3);
+    opacity: 0.9;
+}
+
+.navBarColor {
+    background: var(--bg-grey-color);
+}
+
+
+.navCartInfo {
+    color: var(--nav-link-hover-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 1rem;
+}
+
+.customNavLink {
+    color: var(--nav-link-color);
+
+    font-weight: inherit;
+}
+
+.customNavLink:hover,
+.customNavLink:focus,
+.customNavLink:active {
+    color: var(--nav-link-hover-color);
+}
+
+
+/* media query for mobile view  */
+@media only screen and (max-width: 600px) {
+    .brandLogo {
+        min-width: calc(100vw - 92%);
+        height: 3rem;
+    }
+
+    .brandLogo img {
+        max-width: 4.5rem;
+    }
+}

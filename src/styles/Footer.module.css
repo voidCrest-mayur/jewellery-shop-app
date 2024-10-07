@@ -1,0 +1,14 @@
+.footerFormat {
+    background: var(--bg-grey-color);
+    padding: 3rem 3rem;
+    color: #fff;
+
+}
+
+/* media query for mobile view  */
+@media only screen and (max-width: 600px) {
+    .footerFormat h5 {
+        font-size: 14px !important;
+
+    }
+}

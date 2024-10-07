@@ -1,0 +1,40 @@
+.list-group {
+    list-style: none;
+    margin: 0 auto;
+}
+
+.list-item {
+    max-width: 3em;
+    height: 3.5em;
+    margin-bottom: 13px;
+    border: 1px solid #aea9a9;
+    border-radius: 13px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.8s ease-out;
+}
+
+.list-item.active {
+    filter: drop-shadow(1px 1px 8px var(--nav-link-hover-color));
+}
+
+.list-item-img img {
+    display: block;
+    width: 45px;
+    height: 40px;
+}
+
+.productDetailBottom p {
+    font-size: 0.9em;
+}
+
+
+/* media query for mobile view  */
+@media only screen and (max-width: 600px) {
+    .productAddToCart span {
+        font-size: 0.8em;
+        padding: 4px;
+
+    }
+}

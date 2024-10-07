@@ -1,0 +1,185 @@
+
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Stone Earring",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quia corporis odit adipisci temporibus aliquam animi maxime. Aperiam excepturi vitae facere.",
+            "price": 145,
+            "discountPercentage": 17.8,
+            "rating": 4.3,
+            "stock": 50,
+            "brand": "void jewellers",
+            "category": "Earring",
+            "thumbnail": "/resources/images/products/earrings/1_STONE_E.webp",
+            "images": [
+                "/resources/images/products/earrings/1_STONE_E.webp",
+                "/resources/images/products/earrings/1_STONE_E.webp",
+                "/resources/images/brandLogo-2.webp"
+                
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Perl Necklace",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quia corporis odit adipisci temporibus aliquam animi maxime. Aperiam excepturi vitae facere.",
+            "price": 345,
+            "discountPercentage": 10.4,
+            "rating": 3.44,
+            "stock": 50,
+            "brand": "void jewellers",
+            "category": "Necklace",
+            "thumbnail": "/resources/images/products/necklace/1_PERL_N.webp",
+            "images": [
+                "/resources/images/products/necklace/1_PERL_N.webp",
+                "/resources/images/products/necklace/1_PERL_N.webp",
+                "/resources/images/brandLogo-2.webp"
+                
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Gold Ring",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quia corporis odit adipisci temporibus aliquam animi maxime. Aperiam excepturi vitae facere.",
+            "price": 179,
+            "discountPercentage": 0,
+            "rating": 4.44,
+            "stock": 50,
+            "brand": "void jewellers",
+            "category": "Ring",
+            "thumbnail": "/resources/images/products/rings/2_MG_R.webp",
+            "images": [
+                "/resources/images/products/rings/2_MG_R.webp",
+                "/resources/images/products/rings/2_MG_R.webp",
+                "/resources/images/brandLogo-2.webp"
+                
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Stone Earring",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quia corporis odit adipisci temporibus aliquam animi maxime. Aperiam excepturi vitae facere.",
+            "price": 278,
+            "discountPercentage": 0,
+            "rating": 3.2,
+            "stock": 50,
+            "brand": "void jewellers",
+            "category": "Earring",
+            "thumbnail": "/resources/images/products/earrings/2_STONE_E.webp",
+            "images": [
+                "/resources/images/products/earrings/2_STONE_E.webp",
+                "/resources/images/products/earrings/2_STONE_E.webp",
+                "/resources/images/brandLogo-2.webp"
+                
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Diamond Necklace",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quia corporis odit adipisci temporibus aliquam animi maxime. Aperiam excepturi vitae facere.",
+            "price": 578,
+            "discountPercentage": 5.4,
+            "rating": 4.8,
+            "stock": 50,
+            "brand": "void jewellers",
+            "category": "Necklace",
+            "thumbnail": "/resources/images/products/necklace/1_DIAMOND_N.webp",
+            "images": [
+                "/resources/images/products/necklace/1_DIAMOND_N.webp",
+                "/resources/images/products/necklace/1_DIAMOND_N.webp",
+                "/resources/images/brandLogo-2.webp"
+                
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Diamond Wedding Ring",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quia corporis odit adipisci temporibus aliquam animi maxime. Aperiam excepturi vitae facere.",
+            "price": 246,
+            "discountPercentage": 0,
+            "rating": 4.87,
+            "stock": 50,
+            "brand": "void jewellers",
+            "category": "Ring",
+            "thumbnail": "/resources/images/products/rings/1_CP_R.webp",
+            "images": [
+                "/resources/images/products/rings/1_CP_R.webp",
+                "/resources/images/products/rings/1_CP_R.webp",
+                "/resources/images/brandLogo-2.webp"
+                
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Gold Earring",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quia corporis odit adipisci temporibus aliquam animi maxime. Aperiam excepturi vitae facere.",
+            "price": 145,
+            "discountPercentage": 17.8,
+            "rating": 4.3,
+            "stock": 50,
+            "brand": "void jewellers",
+            "category": "Earring",
+            "thumbnail": "/resources/images/products/earrings/1_GOLD_E.webp",
+            "images": [
+                "/resources/images/products/earrings/1_GOLD_E.webp",
+                "/resources/images/products/earrings/1_GOLD_E.webp",
+                "/resources/images/brandLogo-2.webp"
+                
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Crafted Necklace",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quia corporis odit adipisci temporibus aliquam animi maxime. Aperiam excepturi vitae facere.",
+            "price": 325,
+            "discountPercentage": 10.4,
+            "rating": 3.44,
+            "stock": 50,
+            "brand": "void jewellers",
+            "category": "Necklace",
+            "thumbnail": "/resources/images/products/necklace/1_CRAFT_N.webp",
+            "images": [
+                "/resources/images/products/necklace/1_CRAFT_N.webp",
+                "/resources/images/products/necklace/1_CRAFT_N.webp",
+                "/resources/images/brandLogo-2.webp"
+                
+            ]
+        },
+        {
+            "id": 9,
+            "title": "Carving Gold Ring",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quia corporis odit adipisci temporibus aliquam animi maxime. Aperiam excepturi vitae facere.",
+            "price": 234,
+            "discountPercentage": 0,
+            "rating": 4.3,
+            "stock": 50,
+            "brand": "void jewellers",
+            "category": "Ring",
+            "thumbnail": "/resources/images/products/rings/1_MG_R.webp",
+            "images": [
+                "/resources/images/products/rings/1_MG_R.webp",
+                "/resources/images/products/rings/1_MG_R.webp",
+                "/resources/images/brandLogo-2.webp"
+                
+            ]
+        },
+        {
+            "id": 10,
+            "title": "Pink Diamond Ring",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quia corporis odit adipisci temporibus aliquam animi maxime. Aperiam excepturi vitae facere.",
+            "price": 414,
+            "discountPercentage": 0,
+            "rating": 4.3,
+            "stock": 50,
+            "brand": "void jewellers",
+            "category": "Ring",
+            "thumbnail": "/resources/images/products/rings/1_FD_R.webp",
+            "images": [
+                "/resources/images/products/rings/1_FD_R.webp",
+                "/resources/images/products/rings/1_FD_R.webp",
+                "/resources/images/brandLogo-2.webp"
+                
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+.productContainer {
+    background-color: var(--bg-grey-color);
+}
+
+.productContainer p {
+    word-spacing: 3px;
+}
+
+.myBtn {
+    color: #fff;
+    background: transparent;
+    border: 1px solid var(--nav-link-hover-color);
+    border-radius: 25px;
+    font-size: 1.3em;
+    font-weight: 500;
+    letter-spacing: 2px;
+    padding: 0.4rem 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+
+.myBtn:hover {
+    background-color: var(--nav-link-hover-color);
+}
+
+/* media query for mobile view  */
+@media only screen and (max-width: 600px) {
+    .myBtn {
+        font-size: 1em !important;
+        letter-spacing: 1px;
+        padding: 0.3rem 1rem;
+    }
+
+    .filterInfo {
+        font-size: 10px;
+    }
+}

@@ -1,0 +1,16 @@
+.alignment:after {
+    height: 100vh;
+    position: relative;
+    z-index: -200;
+}
+
+.alignment>div {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.loadingColor {
+    color: var(--nav-link-hover-color);
+}

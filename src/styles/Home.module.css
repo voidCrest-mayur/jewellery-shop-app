@@ -1,0 +1,107 @@
+.bannerOverLayer {
+    height: 100vh;
+    padding: 0;
+    position: relative;
+    overflow: hidden;
+}
+
+.bannerText {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 90vw;
+    transform: translate(-50%, -50%);
+}
+
+.bannerText div {
+
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: flex-end;
+    color: #fff;
+
+}
+
+
+.myBtn {
+    color: #fff;
+    border: 1px solid var(--nav-link-hover-color);
+    border-radius: 25px;
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+
+}
+
+.myBtn:hover {
+    background-color: var(--nav-link-hover-color);
+}
+
+
+
+
+.imageSections>div>div {
+    background: var(--bg-grey-color);
+
+}
+
+.imageSections div img {
+    opacity: 0.8;
+    filter: contrast(0.9);
+
+
+}
+
+.imageSectionText {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    width: 90%;
+    margin: 0 auto;
+    transform: translate(-50%, -50%);
+}
+
+
+
+.imageSectionText div {
+    color: #fff;
+}
+
+
+/* media query for mobile view  */
+@media only screen and (max-width: 600px) {
+    .bannerOverLayer {
+        height: 40vh;
+
+    }
+
+    .bannerText h1 {
+        font-size: 1.5em !important;
+    }
+
+    .bannerText h5 {
+        font-size: 1em !important;
+    }
+
+    .bannerText p {
+        font-size: 0.7em !important;
+    }
+
+    .myBtn {
+        font-size: 0.7rem;
+        padding: 0.4rem 1rem;
+        margin-top: 1em !important;
+    }
+
+    .imageSectionText {
+        top: 50% !important;
+    }
+
+    .imageSectionText h1 {
+        font-size: 0.8em !important;
+    }
+
+    .imageSectionText p {
+        font-size: 0.7em !important;
+    }
+}
